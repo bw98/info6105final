@@ -1,0 +1,54 @@
+时间戳	比赛地点	比赛国家1	比赛国家2	点数	赢家
+欧洲杯 2020    06/26/2021 1/8决赛    07/11/2021 总决赛
+
+06/11/2021	Italy	Turkey	Italy	0:3	Italy
+06/12/2021	Azerbaijan	Wales	Switzerland	1:1	None
+06/12/2021	Denmark	Denmark	Finland	0:1	Finland
+06/12/2021	Russia	Belgium	Russia	3:0	Belgium
+06/13/2021	England	England	Croatia	1:0	England
+06/13/2021	Romania	Austria	North Macedonia	3:1	Austria
+06/13/2021	Netherlands	Netherlands	Ukraine	3:2	Netherlands
+06/14/2021	Scotland	Scotland	Czechia	0:2	Czechia
+06/14/2021	Russia	Poland	Slovakia	1:2	Slovakia
+06/14/2021	Spain	Spain	Sweden	0:0	None
+06/15/2021	Hungary	Hungary	Portugal	0:3	Portugal
+06/15/2021	Germany	France	Germany	1:0	France
+06/16/2021	Russia	Finland	Russia	0:1	Russia
+06/16/2021	Azerbaijan	Turkey	Wales	0:2	Wales
+06/16/2021	Italy	Italy	Switzerland	3:0	Italy
+06/17/2021	Romania	Ukraine	North Macedonia	2:1	Ukraine
+06/17/2021	Netherlands	Netherlands	Austria	2:0	Netherlands
+06/17/2021	Denmark	Denmark	Belgium	1:2	Belgium
+06/18/2021	Russia	Sweden	Slovakia	1:0	Sweden
+06/18/2021	Scotland	Croatia	Czechia	1:1	None
+06/18/2021	England	England	Scotland	0:0	None
+06/19/2021	Hungary	Hungary	France	1:1	None
+06/19/2021	Germany	Portugal	Germany	2:4	Germany
+06/19/2021	Spain	Poland	Spain	1:1	None
+06/20/2021	Italy	Italy	Wales	1:0	Italy
+06/20/2021	Azerbaijan	Switzerland	Turkey	3:1	Switzerland
+06/21/2021	Romania	Ukraine	Austria	0:1	Austria
+06/21/2021	Netherlands	North Macedonia	Netherlands	0:3	Netherlands
+06/21/2021	Russia	Finland	Belgium	0:2	Belgium
+06/21/2021	Denmark	Russia	Denmark	1:4	Denmark
+06/22/2021	Scotland	Croatia	Scotland	3:1	Croatia
+06/22/2021	England	Czechia	England	0:1	England
+06/23/2021	Russia	Sweden	Poland	3:2	Sweden
+06/23/2021	Spain	Slovakia	Spain	0:5	Spain
+06/23/2021	Hungary	Portugal	France	2:2	None
+06/23/2021	Germany	Germany	Hungary	2:2	None
+06/26/2021	Netherlands	Wales	Denmark	0:4	Denmark
+06/26/2021	England	Italy	Austria	0:0	Italy
+06/27/2021	Hungary	Netherlands	Czechia	0:2	Czechia
+06/27/2021	Spain	Belgium	Portugal	1:0	Belgium
+06/28/2021	England	Croatia	Spain	3:5	Spain
+06/28/2021	Romania	France	Switzerland	4:5	Switzerland
+06/29/2021	England	England	Germany	2:0	England
+06/29/2021	Scotland	Sweden	Ukraine	1:2	Ukraine
+07/02/2021	Russia	Switzerland	Spain	1:1	Spain
+07/02/2021	Germany	Belgium	Italy	1:2	Italy
+07/03/2021	Azerbaijan	Czechia	Denmark	1:2	Denmark
+07/03/2021	Italy	Ukraine	England	0:4	England
+07/06/2021	England	Italy	Spain	1:1	Italy
+07/07/2021	England	England Denmark	1:1	England
+07/11/2021	England	Italy	England	1:1	Italy
