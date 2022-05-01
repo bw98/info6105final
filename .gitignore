@@ -135,6 +135,6 @@ dmypy.json
 # IDEA
 .idea
 
-# Large dataset
-data/match.csv
+# Dataset
+data/
 
